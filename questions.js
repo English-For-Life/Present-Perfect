@@ -11,7 +11,7 @@ const quiz = [
         answer: 0   
     },
     {
-        q:"I ___ Mike fo 10 years.",
+        q:"I ___ Mike for 10 years.",
         options:["has known", "have knowen", "have known", "has knowen"],
         answer: 2
     },
